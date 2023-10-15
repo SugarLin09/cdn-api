@@ -15,7 +15,6 @@ This project is an assessment to demonstrate my understanding and skills in C#, 
 - independent of external influences
 - represents a user within the system.
 - Attributes: `Id, Username, Password, Email, PhoneNumber, Skillsets, Hobbies`.
--
 
 ### Infrastructure Layer: UserRepository (IUserRepository)
 - outside of the Core layer.
